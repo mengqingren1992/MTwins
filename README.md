@@ -24,3 +24,5 @@ head(data)
 pair_find(data=data,RAN_num=5,RAP_num=5,k="euclidean",rawoff=0.01)
 ```
 
+> RAN and RAP means the Ctrl and Disease
+> Number means the sample number. Moreover, you must keep the phenotype sample continuous
